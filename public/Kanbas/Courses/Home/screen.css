@@ -1,0 +1,47 @@
+.wd-kanbas-topbar {
+  align-items: center;
+  margin: 0px;
+  padding: 20px 0px 10px 15px;
+}
+.wd-kanbas-topbar i {
+  color: red;
+  padding: 0px 10px;
+}
+.wd-kanbas-topbar h6 {
+  color: red;
+  margin-bottom: 0px;
+}
+.wd-kanbas-topbar p {
+  margin-bottom: 0px;
+}
+/*
+.wd-kanbas-topbar button {
+  background: #f5f5f5;
+  color: #2d3b45 !important;
+  border: 1px solid !important;
+  border-color: #c7cdd1 !important;
+  border-radius: 3px !important;
+  display: inline-block;
+  position: relative;
+  padding: 8px 14px !important;
+  margin-bottom: 0 !important;
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 20px;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  overflow: hidden;
+  > i {
+    color: #2d3b45 !important;
+    padding: 0px;
+    padding-right: 10px;
+  }
+}
+.wd-kanbas-topbar button:hover {
+  > i {
+    color: white !important;
+  }
+  background: red;
+  color: white !important;
+} */
